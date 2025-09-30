@@ -1,7 +1,7 @@
 # conda_activate_environment_bat
 This is example files.
 # Example
-```
+```bat
 call activate C://ai
 rem idk why echo is off after conda activate
 @echo on
