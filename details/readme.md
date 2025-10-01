@@ -1,4 +1,6 @@
-# Some conda error
+# Some Conda error
+
+# 1. CondaValueError: Environment names cannot contain path separators in copy env
 ```cmd
 C:\Users\原神>conda create --prefix C://aii --clone C://ai
 
@@ -12,3 +14,4 @@ Destination: C:\aii
 Packages: 120
 Files: 39878
 ```
+
