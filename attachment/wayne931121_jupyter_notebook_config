@@ -1,5 +1,5 @@
 # Configuration file for notebook.
-# wayne931121 edit: please goto line 717.
+# wayne931121 edit: please goto line 717. (This file is python file.)
 
 c = get_config()  #noqa
 
@@ -1151,5 +1151,6 @@ c.NotebookApp.browser = "chrome"
 #          Should be in the form of an HTTP origin: ws[s]://hostname[:port]
 #  Default: ''
 # c.ServerApp.websocket_url = ''
+
 
 
