@@ -11,8 +11,3 @@ REM wayne931121_jupyter_notebook_config.py : https://github.com/wayne931121/cond
 jupyter notebook --config="C:\Users\原神\Downloads\wayne931121_jupyter_notebook_config.py"
 
 cmd
-
-
-
-
-
