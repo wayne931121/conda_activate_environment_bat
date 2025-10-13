@@ -10,7 +10,8 @@ rem so I do some change in command for all user.
 jupyter notebook --config="C:\Users\原神\Downloads\wayne931121_jupyter_notebook_config.py"
 
 goto comment
-# wayne931121_jupyter_notebook_config.py
+REM wayne931121_jupyter_notebook_config.py :
+
 c = get_config()
 # https://stackoverflow.com/a/51023808/19470749
 # Test on Windows11
@@ -18,9 +19,11 @@ c = get_config()
 import webbrowser
 webbrowser.register("chrome", None, webbrowser.GenericBrowser(r"C:\Program Files\Google\Chrome\Application\chrome.exe"))
 c.NotebookApp.browser = "chrome"
+
 :comment
 
 cmd
+
 
 
 
