@@ -1,6 +1,5 @@
 # Configuration file for notebook.
 # wayne931121 edit: please goto line 717.
-# https://github.com/wayne931121/conda_activate_environment_bat/edit/main/attachment/wayne931121_jupyter_notebook_config.py#L717
 
 c = get_config()  #noqa
 
@@ -1152,4 +1151,5 @@ c.NotebookApp.browser = "chrome"
 #          Should be in the form of an HTTP origin: ws[s]://hostname[:port]
 #  Default: ''
 # c.ServerApp.websocket_url = ''
+
 
