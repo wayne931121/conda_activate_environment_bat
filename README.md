@@ -2,6 +2,7 @@
 This is example files.
 # Example
 ### Windows
+ai.bat
 ```bat
 call activate C://ai
 rem idk why echo is off after conda activate
@@ -15,6 +16,7 @@ cmd
 ```
 
 ### Linux
+run.sh
 ```sh
 eval "$(conda shell.bash hook)"
 conda activate /home/way/2
